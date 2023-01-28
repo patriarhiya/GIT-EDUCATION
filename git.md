@@ -40,4 +40,3 @@ git merge --abort (отмена слияния)
 git merge origin (Слияние удалённого репозитория с локальным)
 git log --graph --oneline --decorate (история коммитов в виде графика для текущей ветки)
 git log --all --graph --oneline --decorate (всех веток)
-new
