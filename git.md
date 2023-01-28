@@ -18,6 +18,9 @@ git diff --staged
 git diff *file.name*
 git checkout *number.log*
 git log -p
+git log
+git log --all
+git log --all --oneline (в одну строку)
 git show *commit*
 git rm dirname/somefile.js (remove)
 git rm dirname/*.html

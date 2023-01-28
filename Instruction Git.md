@@ -22,6 +22,7 @@
 
 ## Удаленно
 | Команда | Описание |
+|-|-|
 |git remote add awesomeapp https://github.com/someurl..|-|
 |git remote -v|-|
 |git remote show origin|-|
@@ -34,3 +35,14 @@
 |-|-|
 |-|-|
 |-|-|
+
+
+## Исправить HEAD detached from
+| Команда | Описание |
+|-|-|
+|git branch temp|создаем временную ветку с именем temp, причем в новой ветке будет правильно установлено положение HEAD|
+|git checkout temp|переключаемся на временную ветку temp|
+|git branch -f master temp|в ветке master устанавливается та же позиция HEAD, что и в ветке temp|
+|git checkout master|переключиться на ветку master|
+|git branch -d temp|удалить временную ветку|
+
