@@ -6,6 +6,7 @@ git remote add awesomeapp https://github.com/someurl.. (удаленная па�
 git remote -v (удаленные файлы)
 git remote show origin (подробные сведения об удалённом репозитории)
 git commit -m "New commit"
+git commit -a (коммит с добавлением)
 git commit --amend -m "Updated message for the previous commit"
 git push origin main (Отправка изменений в удалённый репозиторий)
 git push -u origin new_branch (Отправка новой ветки в удалённый репозиторий)
@@ -39,3 +40,4 @@ git merge --abort (отмена слияния)
 git merge origin (Слияние удалённого репозитория с локальным)
 git log --graph --oneline --decorate (история коммитов в виде графика для текущей ветки)
 git log --all --graph --oneline --decorate (всех веток)
+new
