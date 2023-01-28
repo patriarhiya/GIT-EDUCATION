@@ -55,7 +55,7 @@
 ## Удаленно
 | Команда | Описание |
 |-|-|
-|git remote add awesomeapp https://github.com/someurl..|-|
+|git remote add awesomeapp *https ://github.com/someurl..* |-|
 |git remote -v|-|
 |git remote show origin|-|
 |git push origin main (Отправка изменений в удалённый репозиторий)|-|
@@ -65,7 +65,6 @@
 |git pull --verbose (подробные сведения о загруженных файлах )|-|
 |git push origin --delete existing_branch_name (удалить удаленную ветку)|-|
 |git merge origin (Слияние удалённого репозитория с локальным)|-|
-|-|-|
 
 ## Исправить HEAD detached from
 | Команда | Описание |
