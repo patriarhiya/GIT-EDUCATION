@@ -76,20 +76,3 @@
 |git branch -f master temp|в ветке master устанавливается та же позиция HEAD, что и в ветке temp|
 |git checkout master|переключиться на ветку master|
 |git branch -d temp|удалить временную ветку|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
