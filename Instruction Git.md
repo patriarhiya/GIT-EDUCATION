@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-size: 50px; font-weight = bold;"><b>Инструкция GIT</b><h1>
 
-![кот git](/images/git.png)
+![кот git](/Images/git.png)
 
 
 ## Введение

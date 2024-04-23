@@ -32,4 +32,4 @@
 
 
 
-![JS](/images/JS.png)
+![JS](/Images/JS.png)
